@@ -1,1 +1,1 @@
-# DS-project
+# JavaScript-Functions
