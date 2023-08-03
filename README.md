@@ -1,1 +1,1 @@
-# ServerlessFuncs
+# ServerlessFunctions
